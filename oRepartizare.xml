@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Repartizare>
+<Destinatie descriere="Bucuresti">
+<Calator avion="7" id="7" nume="Klark" prenume="Kent" sex="M" varsta="27"/>
+</Destinatie>
+<Destinatie descriere="Lugano">
+<Calator avion="1" id="1" nume="Giussepe" prenume="Verdi" sex="M" varsta="93"/>
+</Destinatie>
+<Destinatie descriere="Maldive">
+<Calator avion="2" id="2" nume="Amerigo" prenume="Vespucci" sex="M" varsta="362"/>
+</Destinatie>
+<Destinatie descriere="Capadoccia">
+<Calator avion="3" id="3" nume="Mariana" prenume="Carneci" sex="F" varsta="62"/>
+</Destinatie>
+<Destinatie descriere="Hollywood">
+<Calator avion="4" id="4" nume="Piturca" prenume="Hagi" sex="M" varsta="50"/>
+</Destinatie>
+<Destinatie descriere="Firenze">
+<Calator avion="5" id="5" nume="Stoican" prenume="Niculina" sex="F" varsta="43"/>
+</Destinatie>
+<Destinatie descriere="Madagascar">
+<Calator avion="6" id="6" nume="Darth" prenume="Vader" sex="F" varsta="29"/>
+</Destinatie>
+</Repartizare>

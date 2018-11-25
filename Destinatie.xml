@@ -1,0 +1,51 @@
+<?xml version = "1.0"?>
+<destinatii>
+   <destinatie id = "1">
+    <denumire>Bucuresti</denumire>
+	<distanta>300</distanta>
+	<tara>Romania</tara>
+	<continent>Europa</continent>
+   </destinatie>
+   
+   <destinatie id = "2">
+	<denumire>Lugano</denumire>
+	<distanta>1650</distanta>
+	<tara>Elvetia</tara>
+	<continent>Europa</continent>
+   </destinatie>
+
+   <destinatie id = "3">
+	<denumire>Maldive</denumire>
+	<distanta>3800</distanta>
+	<tara>Maldive</tara>
+	<continent>Asia de Sud</continent>
+   </destinatie>
+   
+   <destinatie id = "4">
+	<denumire>Capadoccia</denumire>
+	<distanta>1400</distanta>
+	<tara>Turcia</tara>
+	<continent>Europa</continent>
+   </destinatie>
+   
+   <destinatie id = "5">
+	<denumire>Hollywood</denumire>
+	<distanta>4100</distanta>
+	<tara>America</tara>
+	<continent>America</continent>
+   </destinatie>
+   
+   <destinatie id = "6">
+	<denumire>Firenze</denumire>
+	<distanta>900</distanta>
+	<tara>Italia</tara>
+	<continent>Europa</continent>
+   </destinatie>
+   
+   <destinatie id = "7">
+	<denumire>Madagascar</denumire>
+	<distanta>5100</distanta>
+	<tara>Madagascar</tara>
+	<continent>Africa</continent>
+   </destinatie>
+</destinatii>

@@ -1,0 +1,44 @@
+<?xml version = "1.0"?>
+<avioane>
+   <avion id="1">
+	<model>a300</model>
+	<loc>180</loc>
+    <destinatie>2</destinatie>
+   </avion>
+   
+   <avion id="2">
+	<model>a301</model>
+	<loc>134</loc>
+    <destinatie>3</destinatie>
+   </avion>
+   
+   <avion id="3">
+	<model>a302</model>
+	<loc>280</loc>
+    <destinatie>4</destinatie>
+   </avion>
+   
+   <avion id="4">
+	<model>a303</model>
+	<loc>150</loc>
+    <destinatie>5</destinatie>
+   </avion>
+   
+   <avion id="5">
+	<model>a304</model>
+	<loc>100</loc>
+    <destinatie>6</destinatie>
+   </avion>
+   
+   <avion id="6">
+	<model>a305</model>
+	<loc>210</loc>
+    <destinatie>7</destinatie>
+   </avion>
+   
+   <avion id="7">
+	<model>a306</model>
+	<loc>300</loc>
+    <destinatie>1</destinatie>
+   </avion>
+</avioane>

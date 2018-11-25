@@ -1,0 +1,65 @@
+<?xml version = "1.0"?>
+<calatori>
+   <calator id = "1">
+	  <destinatie>2</destinatie>
+	  <avion>1</avion>
+      <nume>Giussepe</nume>
+      <prenume>Verdi</prenume>
+      <sex>M</sex>
+	  <varsta>93</varsta>
+   </calator>
+   
+   <calator id = "2">
+	  <destinatie>3</destinatie>
+      <avion>2</avion>
+	  <nume>Amerigo</nume>
+      <prenume>Vespucci</prenume>
+      <sex>M</sex>
+	  <varsta>362</varsta>
+   </calator>
+   
+   <calator id = "3">
+      <destinatie>4</destinatie>
+      <avion>3</avion>
+	  <nume>Mariana</nume>
+      <prenume>Carneci</prenume>
+      <sex>F</sex>
+	  <varsta>62</varsta>
+   </calator>
+   
+   <calator id = "4">
+      <destinatie>5</destinatie>
+	  <avion>4</avion>
+      <nume>Piturca</nume>
+      <prenume>Hagi</prenume>
+      <sex>M</sex>
+	  <varsta>50</varsta>
+   </calator>
+   
+   <calator id = "5">
+      <destinatie>6</destinatie>
+	  <avion>5</avion>
+      <nume>Stoican</nume>
+      <prenume>Niculina</prenume>
+      <sex>F</sex>
+	  <varsta>43</varsta>
+   </calator>
+   
+   <calator id = "6">
+      <destinatie>7</destinatie>
+	  <avion>6</avion>
+      <nume>Darth</nume>
+      <prenume>Vader</prenume>
+      <sex>F</sex>
+	  <varsta>29</varsta>
+   </calator>
+   
+   <calator id = "7">
+      <destinatie>1</destinatie>
+	  <avion>7</avion>
+      <nume>Klark</nume>
+      <prenume>Kent</prenume>
+      <sex>M</sex>
+	  <varsta>27</varsta>
+   </calator>
+</calatori>
